@@ -1,2 +1,4 @@
 my first git repository
 我的第一个git仓库
+git is free software
+修改git配置了
